@@ -1,0 +1,97 @@
+<div align="center">
+
+[中文](https://github.com/shushuitie2017/shushuitie2017/blob/main/README.md) · **English** · [日本語](https://github.com/shushuitie2017/shushuitie2017/blob/main/README.ja.md)
+
+# BlueCat · 蓝猫
+
+**I ship real, live products at high velocity — built with AI.**
+
+![Live Products](https://img.shields.io/badge/Live%20Products-15%2B-2EA44F?style=flat&logo=rocket&logoColor=white)
+![Languages](https://img.shields.io/badge/Trilingual-CN%20%C2%B7%20EN%20%C2%B7%20JP-4C8BF5?style=flat)
+![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Flask%20%C2%B7%20Next.js%20%C2%B7%20Three.js%20%C2%B7%20Electron-6E5494?style=flat)
+
+</div>
+
+---
+
+### What I'm building
+
+**Every product is AI-written; I just decide what to make.** Every image below is live — click it.
+
+<br>
+
+#### 🎮 Interactive & Games
+
+<table>
+<tr>
+<td width="50%"><a href="https://race.bluecatbot.com"><img src="assets/race.png" width="100%"></a><br><b>RACE TO ASI · 奇点竞速</b><br><sub>A 3D RTS where four AI labs race to superintelligence</sub></td>
+<td width="50%"><a href="https://game.bluecatbot.com"><img src="assets/game.png" width="100%"></a><br><b>Xianxia MMO · 修仙</b><br><sub>A browser xianxia MMORPG</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://sakata.bluecatbot.com"><img src="assets/sakata.png" width="100%"></a><br><b>Sakata · 酒田四季之市</b><br><sub>A trading-philosophy visual novel</sub></td>
+<td width="50%"><a href="https://koinobori.bluecatbot.com"><img src="assets/koinobori.png" width="100%"></a><br><b>Koinobori Riverside</b><br><sub>A 3D koinobori riverside scene</sub></td>
+</tr>
+</table>
+
+#### 🛠️ Tools & Assets
+
+<table>
+<tr>
+<td width="50%"><a href="https://svg.bluecatbot.com"><img src="assets/svg.png" width="100%"></a><br><b>SVGSafe</b><br><sub>6,000+ license-clear free SVG icons & illustrations</sub></td>
+<td width="50%"><a href="https://seo.bluecatbot.com"><img src="assets/seo.png" width="100%"></a><br><b>SEO Auditor</b><br><sub>An online SEO auditor with copy-paste fixes</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://mole.bluecatbot.com"><img src="assets/mole.png" width="100%"></a><br><b>Mole</b><br><sub>A disk-cleaning desktop app</sub></td>
+<td width="50%"><a href="https://news.bluecatbot.com"><img src="assets/news.png" width="100%"></a><br><b>NewsNow</b><br><sub>A realtime hot-news aggregator</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://nav.bluecatbot.com"><img src="assets/nav.png" width="100%"></a><br><b>Nav</b><br><sub>A browsing-history nav site</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+#### 📚 Content & Culture
+
+<table>
+<tr>
+<td width="50%"><a href="https://vlog.bluecatbot.com"><img src="assets/vlog.png" width="100%"></a><br><b>vlog</b><br><sub>A trilingual blog with a daily auto-publishing pipeline</sub></td>
+<td width="50%"><a href="https://oldbook.bluecatbot.com"><img src="assets/oldbook.png" width="100%"></a><br><b>oldbook</b><br><sub>A trilingual classical-book reader (scans + transcription + translation)</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://xuanji.bluecatbot.com"><img src="assets/xuanji.png" width="100%"></a><br><b>XUANJI · 玄机</b><br><sub>Divination, dream & I-Ching readings distilled from classics</sub></td>
+<td width="50%"><a href="https://tianya.bluecatbot.com"><img src="assets/tianya.png" width="100%"></a><br><b>Tianya Forum</b><br><sub>A revived classic BBS, 80k archived posts</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://learn.bluecatbot.com"><img src="assets/learn.png" width="100%"></a><br><b>Learn Claude</b><br><sub>An interactive Claude course for kids</sub></td>
+<td width="50%"><a href="https://ink.bluecatbot.com"><img src="assets/ink.png" width="100%"></a><br><b>ink-pond</b><br><sub>Ink-fluid generative art</sub></td>
+</tr>
+</table>
+
+<div align="center">
+
+**All products live under [bluecatbot.com](https://bluecatbot.com)**
+
+</div>
+
+---
+
+### A few things I believe
+
+**Shipping beats talking.** I don't write about what AI *might* do; I put up what I *made* with it — every link works.
+
+**Judgment is the scarce resource, not generation.** AI writes infinite code; knowing *what* to make still takes a person.
+
+**One person, full-stack, trilingual.** From 3D engines to payments to deploy, across Chinese, Japanese and English — solo + AI, end to end.
+
+---
+
+<div align="center">
+
+### Find me
+
+**Home** — [bluecatbot.com](https://bluecatbot.com)
+
+<sub>more links coming</sub>
+
+</div>
