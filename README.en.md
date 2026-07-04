@@ -6,7 +6,7 @@
 
 **I ship real, live products at high velocity — built with AI.**
 
-![Live Products](https://img.shields.io/badge/Live%20Products-15%2B-2EA44F?style=flat&logo=rocket&logoColor=white)
+![Live Products](https://img.shields.io/badge/Live%20Products-30%2B-2EA44F?style=flat&logo=rocket&logoColor=white)
 ![Languages](https://img.shields.io/badge/Trilingual-CN%20%C2%B7%20EN%20%C2%B7%20JP-4C8BF5?style=flat)
 ![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-Flask%20%C2%B7%20Next.js%20%C2%B7%20Three.js%20%C2%B7%20Electron-6E5494?style=flat)
@@ -17,11 +17,11 @@
 
 ### What I'm building
 
-**Every product is AI-written; I just decide what to make.** Every image below is live — click it.
+**Every product is AI-written; I just decide what to make.** Every image below is live — click it. All live under [bluecatbot.com](https://bluecatbot.com).
 
 <br>
 
-#### 🎮 Interactive & Games
+#### 🎮 Games & 3D
 
 <table>
 <tr>
@@ -32,9 +32,13 @@
 <td width="50%"><a href="https://sakata.bluecatbot.com"><img src="assets/sakata.png" width="100%"></a><br><b>Sakata · 酒田四季之市</b><br><sub>A trading-philosophy visual novel</sub></td>
 <td width="50%"><a href="https://koinobori.bluecatbot.com"><img src="assets/koinobori.png" width="100%"></a><br><b>Koinobori Riverside</b><br><sub>A 3D koinobori riverside scene</sub></td>
 </tr>
+<tr>
+<td width="50%"><a href="https://gamebox.bluecatbot.com"><img src="assets/gamebox.png" width="100%"></a><br><b>GameBox</b><br><sub>74 ready-to-use ESM blocks for browser 3D games</sub></td>
+<td width="50%"><a href="https://ink.bluecatbot.com"><img src="assets/ink.png" width="100%"></a><br><b>ink-pond</b><br><sub>Ink-fluid generative art</sub></td>
+</tr>
 </table>
 
-#### 🛠️ Tools & Assets
+#### 🛠️ Tools
 
 <table>
 <tr>
@@ -43,11 +47,41 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://mole.bluecatbot.com"><img src="assets/mole.png" width="100%"></a><br><b>Mole</b><br><sub>A disk-cleaning desktop app</sub></td>
-<td width="50%"><a href="https://news.bluecatbot.com"><img src="assets/news.png" width="100%"></a><br><b>NewsNow</b><br><sub>A realtime hot-news aggregator</sub></td>
+<td width="50%"><a href="https://markitdown.bluecatbot.com"><img src="assets/markitdown.png" width="100%"></a><br><b>MarkItDown</b><br><sub>Convert documents to Markdown (PDF/DOCX/PPTX…)</sub></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://nav.bluecatbot.com"><img src="assets/nav.png" width="100%"></a><br><b>Nav</b><br><sub>A browsing-history nav site</sub></td>
+<td width="50%"><a href="https://picker.bluecatbot.com"><img src="assets/picker.png" width="100%"></a><br><b>Prompt Picker</b><br><sub>Pick and manage AI prompts</sub></td>
+<td width="50%"><a href="https://kanji.bluecatbot.com"><img src="assets/kanji.png" width="100%"></a><br><b>JLPT Kanji Quiz</b><br><sub>JLPT kanji handwriting practice</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://nav.bluecatbot.com"><img src="assets/nav.png" width="100%"></a><br><b>My Nav</b><br><sub>A browsing-history nav site</sub></td>
 <td width="50%"></td>
+</tr>
+</table>
+
+#### 📊 Data & Trading
+
+<table>
+<tr>
+<td width="50%"><a href="https://trending.bluecatbot.com"><img src="assets/trending.png" width="100%"></a><br><b>GitHub Trending</b><br><sub>GitHub trending, explained in plain language</sub></td>
+<td width="50%"><a href="https://comment.bluecatbot.com"><img src="assets/comment.png" width="100%"></a><br><b>Comment Ranking</b><br><sub>Cross-platform comment aggregation & ranking</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://trading.bluecatbot.com"><img src="assets/trading.png" width="100%"></a><br><b>TradingAgents</b><br><sub>12 AI agents collaborate into one trading call</sub></td>
+<td width="50%"><a href="https://polymarket.bluecatbot.com"><img src="assets/polymarket.png" width="100%"></a><br><b>Polymarket Monitor</b><br><sub>A crypto short-term market monitor & strategy board</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://news.bluecatbot.com"><img src="assets/news.png" width="100%"></a><br><b>Cat News</b><br><sub>A realtime hot-news aggregator</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+#### 📥 Downloaders
+
+<table>
+<tr>
+<td width="50%"><a href="https://bili.bluecatbot.com"><img src="assets/bili.png" width="100%"></a><br><b>Bili-Downloader</b><br><sub>A Bilibili video downloader</sub></td>
+<td width="50%"><a href="https://tiktok.bluecatbot.com"><img src="assets/tiktok.png" width="100%"></a><br><b>TikTok Downloader</b><br><sub>A TikTok video downloader</sub></td>
 </tr>
 </table>
 
@@ -64,15 +98,26 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://learn.bluecatbot.com"><img src="assets/learn.png" width="100%"></a><br><b>Learn Claude</b><br><sub>An interactive Claude course for kids</sub></td>
-<td width="50%"><a href="https://ink.bluecatbot.com"><img src="assets/ink.png" width="100%"></a><br><b>ink-pond</b><br><sub>Ink-fluid generative art</sub></td>
+<td width="50%"><a href="https://3d.bluecatbot.com"><img src="assets/3d.png" width="100%"></a><br><b>BlueCat 3D</b><br><sub>AI × 3D character pipeline — tool ranking & course</sub></td>
 </tr>
 </table>
 
-<div align="center">
+#### 🗂️ Productivity & Personal
 
-**All products live under [bluecatbot.com](https://bluecatbot.com)**
-
-</div>
+<table>
+<tr>
+<td width="50%"><a href="https://notebank.bluecatbot.com"><img src="assets/notebank.png" width="100%"></a><br><b>NoteBank</b><br><sub>Card-based knowledge management</sub></td>
+<td width="50%"><a href="https://wechatview.bluecatbot.com"><img src="assets/wechatview.png" width="100%"></a><br><b>Curated Reader</b><br><sub>A curated WeChat-article reader</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://advidgen.bluecatbot.com"><img src="assets/advidgen.png" width="100%"></a><br><b>AdVidGen</b><br><sub>Generate pro-grade video with AI, visual workflow</sub></td>
+<td width="50%"><a href="https://wechat.bluecatbot.com"><img src="assets/wechat.png" width="100%"></a><br><b>WeChat Exporter</b><br><sub>A WeChat-article exporter & archiver</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://yumaicrm.bluecatbot.com"><img src="assets/yumaicrm.png" width="100%"></a><br><b>Yumai CRM</b><br><sub>A sales follow-up management console</sub></td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ---
 
