@@ -6,7 +6,7 @@
 
 **I ship real, live products at high velocity — built with AI.**
 
-![Live Products](https://img.shields.io/badge/Live%20Products-30%2B-2EA44F?style=flat&logo=rocket&logoColor=white)
+![Live Products](https://img.shields.io/badge/Live%20Products-40%2B-2EA44F?style=flat&logo=rocket&logoColor=white)
 ![Languages](https://img.shields.io/badge/Trilingual-CN%20%C2%B7%20EN%20%C2%B7%20JP-4C8BF5?style=flat)
 ![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-Flask%20%C2%B7%20Next.js%20%C2%B7%20Three.js%20%C2%B7%20Electron-6E5494?style=flat)
@@ -36,6 +36,31 @@
 <td width="50%"><a href="https://gamebox.bluecatbot.com"><img src="assets/gamebox.png" width="100%"></a><br><b>GameBox</b><br><sub>74 ready-to-use ESM blocks for browser 3D games</sub></td>
 <td width="50%"><a href="https://ink.bluecatbot.com"><img src="assets/ink.png" width="100%"></a><br><b>ink-pond</b><br><sub>Ink-fluid generative art</sub></td>
 </tr>
+<tr>
+<td width="50%"><a href="https://wow.bluecatbot.com"><img src="assets/wow.png" width="100%"></a><br><b>WoW Private Server</b><br><sub>A WoW 3.3.5a server + registration / GM console</sub></td>
+<td width="50%"><a href="https://shushuitie2017.github.io/diandian-cookie/"><img src="assets/diandian.png" width="100%"></a><br><b>Cookie Clicker</b><br><sub>A browser cookie idle game (Blazor WASM)</sub></td>
+</tr>
+</table>
+
+#### 🧊 3D Worlds & Visualization
+
+<table>
+<tr>
+<td width="50%"><a href="https://hardware.bluecatbot.com"><img src="assets/hardware.png" width="100%"></a><br><b>HardwareLab</b><br><sub>A 3D hardware-teardown lab in the browser — exploded views + animated lessons</sub></td>
+<td width="50%"><a href="https://keyboard.bluecatbot.com"><img src="assets/keyboard.png" width="100%"></a><br><b>MODKEYS</b><br><sub>A 3D custom-keyboard configurator — swap switches & caps live</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://gujian.bluecatbot.com"><img src="assets/gujian.png" width="100%"></a><br><b>Chinese Heritage 3D</b><br><sub>Tour 7 masterpieces of Chinese architecture in 3D</sub></td>
+<td width="50%"><a href="https://shushuitie2017.github.io/physics/"><img src="assets/physics.png" width="100%"></a><br><b>Physics Star Atlas</b><br><sub>The history of physics as a roamable "galaxy of knowledge"</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://shushuitie2017.github.io/structured/"><img src="assets/structured.png" width="100%"></a><br><b>Structured · Learning Timeline</b><br><sub>1,590 kids' topics by age 4–15 + prerequisite-chain tracing</sub></td>
+<td width="50%"><a href="https://shushuitie2017.github.io/toys/"><img src="assets/toys.png" width="100%"></a><br><b>Toys Workshop</b><br><sub>A WebGPU block workshop — build it, spin it, watch it come alive</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://shushuitie2017.github.io/bluecat-spider/"><img src="assets/spider.png" width="100%"></a><br><b>BlueCat Spider</b><br><sub>A WebGL spider with procedural IK gait</sub></td>
+<td width="50%"></td>
+</tr>
 </table>
 
 #### 🛠️ Tools
@@ -55,7 +80,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://nav.bluecatbot.com"><img src="assets/nav.png" width="100%"></a><br><b>My Nav</b><br><sub>A browsing-history nav site</sub></td>
-<td width="50%"></td>
+<td width="50%"><a href="https://threejsskills.bluecatbot.com"><img src="assets/threejsskills.png" width="100%"></a><br><b>Three.js Skills</b><br><sub>Build a playable browser 3D game from one sentence (9 skill packs)</sub></td>
 </tr>
 </table>
 
@@ -72,7 +97,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://news.bluecatbot.com"><img src="assets/news.png" width="100%"></a><br><b>Cat News</b><br><sub>A realtime hot-news aggregator</sub></td>
-<td width="50%"></td>
+<td width="50%"><a href="https://susuonepiece.com/signal/"><img src="assets/signal.png" width="100%"></a><br><b>Signal</b><br><sub>A market-data report querying World Bank data in-browser (DuckDB-WASM)</sub></td>
 </tr>
 </table>
 
@@ -115,7 +140,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://yumaicrm.bluecatbot.com"><img src="assets/yumaicrm.png" width="100%"></a><br><b>Yumai CRM</b><br><sub>A sales follow-up management console</sub></td>
-<td width="50%"></td>
+<td width="50%"><a href="https://mimamori.bluecatbot.com"><img src="assets/mimamori.png" width="100%"></a><br><b>Mimamori · 見守り</b><br><sub>A multilingual watch-over dashboard for family living apart</sub></td>
 </tr>
 </table>
 
@@ -135,8 +160,9 @@
 
 ### Find me
 
-**Home** — [bluecatbot.com](https://bluecatbot.com)
+<img src="assets/wechat-qr.jpg" width="180" alt="WeChat QR"><br>
+<sub>👆 WeChat · chat / collab</sub>
 
-<sub>more links coming</sub>
+**Home** — [bluecatbot.com](https://bluecatbot.com) · **GitHub** — [@shushuitie2017](https://github.com/shushuitie2017)
 
 </div>

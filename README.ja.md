@@ -6,7 +6,7 @@
 
 **AI で本物の、公開済みのプロダクトを高速に量産しています。**
 
-![Live Products](https://img.shields.io/badge/Live%20Products-30%2B-2EA44F?style=flat&logo=rocket&logoColor=white)
+![Live Products](https://img.shields.io/badge/Live%20Products-40%2B-2EA44F?style=flat&logo=rocket&logoColor=white)
 ![Languages](https://img.shields.io/badge/%E4%B8%89%E8%A8%80%E8%AA%9E-CN%20%C2%B7%20EN%20%C2%B7%20JP-4C8BF5?style=flat)
 ![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-Flask%20%C2%B7%20Next.js%20%C2%B7%20Three.js%20%C2%B7%20Electron-6E5494?style=flat)
@@ -36,6 +36,31 @@
 <td width="50%"><a href="https://gamebox.bluecatbot.com"><img src="assets/gamebox.png" width="100%"></a><br><b>GameBox</b><br><sub>ブラウザ 3D ゲームの部品コード、74 の ESM モジュール</sub></td>
 <td width="50%"><a href="https://ink.bluecatbot.com"><img src="assets/ink.png" width="100%"></a><br><b>ink-pond</b><br><sub>水墨流体のジェネラティブアート</sub></td>
 </tr>
+<tr>
+<td width="50%"><a href="https://wow.bluecatbot.com"><img src="assets/wow.png" width="100%"></a><br><b>WoW プライベートサーバー</b><br><sub>WoW 3.3.5a サーバー＋登録 / GM 管理画面</sub></td>
+<td width="50%"><a href="https://shushuitie2017.github.io/diandian-cookie/"><img src="assets/diandian.png" width="100%"></a><br><b>ぽちぽちクッキー</b><br><sub>ブラウザ放置クッキーゲーム（Blazor WASM）</sub></td>
+</tr>
+</table>
+
+#### 🧊 3D ワールド・可視化
+
+<table>
+<tr>
+<td width="50%"><a href="https://hardware.bluecatbot.com"><img src="assets/hardware.png" width="100%"></a><br><b>HardwareLab</b><br><sub>ブラウザで動く 3D ハードウェア分解ラボ、分解ビュー＋解説アニメ</sub></td>
+<td width="50%"><a href="https://keyboard.bluecatbot.com"><img src="assets/keyboard.png" width="100%"></a><br><b>MODKEYS</b><br><sub>3D カスタムキーボード設定ツール、軸・キャップをリアルタイム変更</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://gujian.bluecatbot.com"><img src="assets/gujian.png" width="100%"></a><br><b>中国古建築の至宝</b><br><sub>中国の名建築 7 座を 3D で巡る</sub></td>
+<td width="50%"><a href="https://shushuitie2017.github.io/physics/"><img src="assets/physics.png" width="100%"></a><br><b>物理学星図</b><br><sub>物理学史を漫遊できる「知識の星系」に</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://shushuitie2017.github.io/structured/"><img src="assets/structured.png" width="100%"></a><br><b>Structured · 学習タイムライン</b><br><sub>1,590 の子ども向け知識点を 4〜15 歳で配置＋前提連鎖の追跡</sub></td>
+<td width="50%"><a href="https://shushuitie2017.github.io/toys/"><img src="assets/toys.png" width="100%"></a><br><b>Toys 工房</b><br><sub>WebGPU ブロック工房：組んで、回して、動き出す</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://shushuitie2017.github.io/bluecat-spider/"><img src="assets/spider.png" width="100%"></a><br><b>BlueCat Spider</b><br><sub>プロシージャル IK 歩行の WebGL クモ</sub></td>
+<td width="50%"></td>
+</tr>
 </table>
 
 #### 🛠️ ツール
@@ -55,7 +80,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://nav.bluecatbot.com"><img src="assets/nav.png" width="100%"></a><br><b>My Nav</b><br><sub>閲覧履歴ナビ</sub></td>
-<td width="50%"></td>
+<td width="50%"><a href="https://threejsskills.bluecatbot.com"><img src="assets/threejsskills.png" width="100%"></a><br><b>Three.js Skills</b><br><sub>一言で遊べるブラウザ 3D ゲームを生成（9 スキルパック）</sub></td>
 </tr>
 </table>
 
@@ -72,7 +97,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://news.bluecatbot.com"><img src="assets/news.png" width="100%"></a><br><b>Cat News</b><br><sub>リアルタイムニュース集約</sub></td>
-<td width="50%"></td>
+<td width="50%"><a href="https://susuonepiece.com/signal/"><img src="assets/signal.png" width="100%"></a><br><b>Signal</b><br><sub>世界銀行データをブラウザ内で照会する市場データレポート（DuckDB-WASM）</sub></td>
 </tr>
 </table>
 
@@ -115,7 +140,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://yumaicrm.bluecatbot.com"><img src="assets/yumaicrm.png" width="100%"></a><br><b>語脈 CRM</b><br><sub>営業フォロー管理コンソール</sub></td>
-<td width="50%"></td>
+<td width="50%"><a href="https://mimamori.bluecatbot.com"><img src="assets/mimamori.png" width="100%"></a><br><b>見守り Mimamori</b><br><sub>離れて暮らす家族をひと目で見守る多言語ダッシュボード</sub></td>
 </tr>
 </table>
 
@@ -135,8 +160,9 @@
 
 ### 連絡先
 
-**メイン** — [bluecatbot.com](https://bluecatbot.com)
+<img src="assets/wechat-qr.jpg" width="180" alt="WeChat QR"><br>
+<sub>👆 WeChat · 交流 / コラボ</sub>
 
-<sub>SNS リンクは順次追加</sub>
+**メイン** — [bluecatbot.com](https://bluecatbot.com) · **GitHub** — [@shushuitie2017](https://github.com/shushuitie2017)
 
 </div>

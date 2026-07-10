@@ -6,7 +6,7 @@
 
 **我用 AI 高频量产真实的、已上线的产品。**
 
-![Live Products](https://img.shields.io/badge/Live%20Products-30%2B-2EA44F?style=flat&logo=rocket&logoColor=white)
+![Live Products](https://img.shields.io/badge/Live%20Products-40%2B-2EA44F?style=flat&logo=rocket&logoColor=white)
 ![Languages](https://img.shields.io/badge/%E4%B8%89%E8%AF%AD-%E4%B8%AD%20%C2%B7%20EN%20%C2%B7%20%E6%97%A5-4C8BF5?style=flat)
 ![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Stack](https://img.shields.io/badge/Stack-Flask%20%C2%B7%20Next.js%20%C2%B7%20Three.js%20%C2%B7%20Electron-6E5494?style=flat)
@@ -36,6 +36,31 @@
 <td width="50%"><a href="https://gamebox.bluecatbot.com"><img src="assets/gamebox.png" width="100%"></a><br><b>GameBox</b><br><sub>浏览器 3D 游戏积木，74 个即用 ESM 模块</sub></td>
 <td width="50%"><a href="https://ink.bluecatbot.com"><img src="assets/ink.png" width="100%"></a><br><b>墨鱼池 ink-pond</b><br><sub>水墨流体生成艺术</sub></td>
 </tr>
+<tr>
+<td width="50%"><a href="https://wow.bluecatbot.com"><img src="assets/wow.png" width="100%"></a><br><b>魔兽世界私服</b><br><sub>WoW 3.3.5a 私服 + 注册 / GM 管理台</sub></td>
+<td width="50%"><a href="https://shushuitie2017.github.io/diandian-cookie/"><img src="assets/diandian.png" width="100%"></a><br><b>点点饼干</b><br><sub>浏览器饼干放置游戏（Blazor WASM）</sub></td>
+</tr>
+</table>
+
+#### 🧊 3D 世界 & 可视化
+
+<table>
+<tr>
+<td width="50%"><a href="https://hardware.bluecatbot.com"><img src="assets/hardware.png" width="100%"></a><br><b>HardwareLab</b><br><sub>浏览器里的 3D 硬件拆解实验室，爆炸视图 + 教学动画</sub></td>
+<td width="50%"><a href="https://keyboard.bluecatbot.com"><img src="assets/keyboard.png" width="100%"></a><br><b>MODKEYS 键盘</b><br><sub>3D 客制化键盘配置器，实时换轴换帽</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://gujian.bluecatbot.com"><img src="assets/gujian.png" width="100%"></a><br><b>中国古建筑</b><br><sub>3D 巡览 7 座中国古建筑名作</sub></td>
+<td width="50%"><a href="https://shushuitie2017.github.io/physics/"><img src="assets/physics.png" width="100%"></a><br><b>物理学星图</b><br><sub>把物理学史做成一张可漫游的「知识星系」</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://shushuitie2017.github.io/structured/"><img src="assets/structured.png" width="100%"></a><br><b>结构化 · 学习时间轴</b><br><sub>1590 个儿童知识点按 4–15 岁排布 + 先修链追溯</sub></td>
+<td width="50%"><a href="https://shushuitie2017.github.io/toys/"><img src="assets/toys.png" width="100%"></a><br><b>玩具工坊 Toys</b><br><sub>WebGPU 积木工坊：拼起来，让它转，看它活</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://shushuitie2017.github.io/bluecat-spider/"><img src="assets/spider.png" width="100%"></a><br><b>蓝猫蜘蛛</b><br><sub>程序化 IK 步态的 WebGL 蜘蛛</sub></td>
+<td width="50%"></td>
+</tr>
 </table>
 
 #### 🛠️ 工具
@@ -55,7 +80,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://nav.bluecatbot.com"><img src="assets/nav.png" width="100%"></a><br><b>My Nav 导航</b><br><sub>浏览历史分类导航站</sub></td>
-<td width="50%"></td>
+<td width="50%"><a href="https://threejsskills.bluecatbot.com"><img src="assets/threejsskills.png" width="100%"></a><br><b>Three.js Skills</b><br><sub>一句话造一个能玩的浏览器 3D 游戏（9 个技能包）</sub></td>
 </tr>
 </table>
 
@@ -72,7 +97,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://news.bluecatbot.com"><img src="assets/news.png" width="100%"></a><br><b>Cat News</b><br><sub>实时热点聚合</sub></td>
-<td width="50%"></td>
+<td width="50%"><a href="https://susuonepiece.com/signal/"><img src="assets/signal.png" width="100%"></a><br><b>Signal 市场数据</b><br><sub>浏览器内查询世界银行数据（DuckDB-WASM）</sub></td>
 </tr>
 </table>
 
@@ -115,7 +140,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://yumaicrm.bluecatbot.com"><img src="assets/yumaicrm.png" width="100%"></a><br><b>语脉 CRM</b><br><sub>销售跟进管理后台</sub></td>
-<td width="50%"></td>
+<td width="50%"><a href="https://mimamori.bluecatbot.com"><img src="assets/mimamori.png" width="100%"></a><br><b>见守り Mimamori</b><br><sub>离家家人一目了然的多语言看护仪表盘</sub></td>
 </tr>
 </table>
 
@@ -135,8 +160,9 @@
 
 ### 找到我
 
-**主站** — [bluecatbot.com](https://bluecatbot.com)
+<img src="assets/wechat-qr.jpg" width="180" alt="微信联系二维码"><br>
+<sub>👆 微信 · 交流 / 合作</sub>
 
-<sub>更多社交平台待补充</sub>
+**主站** — [bluecatbot.com](https://bluecatbot.com) · **GitHub** — [@shushuitie2017](https://github.com/shushuitie2017)
 
 </div>
